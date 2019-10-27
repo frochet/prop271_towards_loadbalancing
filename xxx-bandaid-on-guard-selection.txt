@@ -81,7 +81,7 @@ Supersedes: 271
   sampled_idx values should be recalculated to be a dense array when we save the
   state.
 
-3. Going Further -- Let's not choose our History
+3. Going Further -- Let's not choose our History (future work)
 
   A deeper refactoring of Prop 271 would try to solve the load balancing problem
   of choosing guards on a date but then making decisions about them on a
